@@ -1,9 +1,11 @@
 #include <stdio.h>
 /**
- * main function printing alphabet characters
- * followed by new line
- * returns 0
- */
+ * main - Entry point
+ *
+ * Description: print all aplhabet letters
+ *
+ * Return: Always 0 (Success)
+*/
 int main(void)
 {
 	char alphabets;
