@@ -28,17 +28,19 @@ int main(void)
 			{
 				continue;
 			}
-			if (digit == 8 && digit2 == 9)
-			{
-				putchar(digit + '0');
-				putchar(digit2 + '0');
-			}
 			else
 			{
 				putchar(digit + '0');
 				putchar(digit2 + '0');
+				if (digit == 8 && digit2 == 9)
+				{
+					continue;
+				}
+				else
+				{
 				putchar(',');
 				putchar(' ');
+				}
 			}
 		}
 	}
