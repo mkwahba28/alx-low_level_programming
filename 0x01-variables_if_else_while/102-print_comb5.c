@@ -11,7 +11,7 @@
 int main(void)
 {
 	int digit, digit2, digit3, digit4;
-	
+
 	for (digit = 0; digit <= 9; ++digit)
 	{
 		for (digit2 = 0; digit2 < 9; ++digit2)
