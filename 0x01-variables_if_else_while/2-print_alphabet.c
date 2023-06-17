@@ -8,5 +8,3 @@ int main (void)
 	for (alphabets = 'a'; alphabets <= 'z'; alphabets++)
 		putchar(alphabets);
 	printf("\n");
-
-	return (0);
