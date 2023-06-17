@@ -32,6 +32,7 @@ int main(void)
 			{
 				putchar(digit + '0');
 				putchar(digit2 + '0');
+			}
 			else
 			{
 				putchar(digit + '0');
