@@ -1,10 +1,5 @@
 #include <unistd.h>
 #include <stdio.h>
-/*
- * File: 0-putchar.c 
- *
- */
-
 #include "main.h"
 
 /**
