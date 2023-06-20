@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include "main.h"
 
-/*
+/**
  * main - Entry Point
  * Description: Print putchar
  * Return - always 0 success
