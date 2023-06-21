@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: returns 1 if the character is lowercase
+ * _islower - returns 1 if the character is lowercase
  * @c: character to be checked
  *
  * Return: Always 0 (Success)
