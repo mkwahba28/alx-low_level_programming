@@ -14,7 +14,7 @@ int _abs(int r )
 {
 	if (r < 0)
 	{
-		r = r * -1;
+		r = -1 * r;
 		printf("%d", r);
 	}
 	else
