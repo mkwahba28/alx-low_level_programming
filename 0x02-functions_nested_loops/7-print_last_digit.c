@@ -12,11 +12,11 @@
 
 int print_last_digit(int r)
 {
-	int last_digit = r % 10;
+        int last_digit = r % 10;
 
-	if (r < 0)
-		printf("%d", last_digit * -1);
-	else
-		printf("%d", last_digit);
-	return (0);
+        if (r < 0)
+                printf("%d", last_digit * -1);
+        else
+                printf("%d", last_digit);
+        return (0);
 }
