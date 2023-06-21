@@ -21,5 +21,4 @@ int _abs(int r )
 	{
 		printf("%d", r);
 	}
-	return (0);
 }
