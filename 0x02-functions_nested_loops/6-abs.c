@@ -10,7 +10,7 @@
  * Return: always 0 (success).
  */
 
-int _abs(int r )
+int _abs(int r)
 {
 	if (r < 0)
 	{
