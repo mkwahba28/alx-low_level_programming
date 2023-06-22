@@ -1,18 +1,21 @@
+/*
+ * File: 0-isupper.c
+ * Auth: Mahmoud Wahba
+ */
+
 #include "main.h"
 
 /**
- * _isupper - checks if c is uppercase
- * @c: character to be checked
+ * _isupper - Checks for uppercase characters.
+ * @c: The character to be checked.
  *
- * Description: printer character 
- * 
- * Return: 1 if uppercase, 0 if not
+ * Return: 1 if character is uppercase, 0 otherwise.
  */
-
-int _isupper(c)
+int _isupper(int c)
 {
 	if (c >= 'A' && c <= 'Z')
 		return (1);
+
 	else
 		return (0);
 }
