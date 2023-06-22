@@ -8,8 +8,8 @@
  * Returns: the result
  */
 
-int mul(int x, int y)
+int mul(int a, int b)
 {
-	mult = x * y;
+	mult = a * b;
 	return (mult);
 }
