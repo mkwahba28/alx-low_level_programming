@@ -2,6 +2,7 @@
 
 /**
  * print_numbers - Prints the numbers from 0-9 except 2 & 4.
+ * followed by a new line
  */
 void print_numbers(void)
 {
